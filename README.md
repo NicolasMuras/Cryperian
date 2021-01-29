@@ -10,4 +10,4 @@ La forma de uso es simple:
 3- Elige el nombre que tendra el archivo (output).                                                                                                              
 4- Listo :D!
 
-![alt text](https://github.com/NicolasMuras/mushroom_evolve/blob/main/example/cryperian_example.jpg?raw=true)
+![alt text](https://github.com/NicolasMuras/Cryperian/blob/main/example/cryperian_example.jpg?raw=true)
