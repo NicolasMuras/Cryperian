@@ -12,4 +12,6 @@ La forma de uso es simple:
 
 ![alt text](https://github.com/NicolasMuras/Cryperian/blob/main/example/cryperian_example.jpg?raw=true)
 
+El resultado es un archivo que esta programado para desencriptarse y ejecutar el codigo base que se proporciono antes.
+
 ![alt text](https://github.com/NicolasMuras/Cryperian/blob/main/example/cryperian_result.jpg?raw=true)
